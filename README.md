@@ -173,7 +173,7 @@ After deployment, add the live application URL to the Project Links section of t
 
 The demonstration video will show the required features, extra features, data persistence, localStorage contents, the XSS test string displayed as plain text, and an explanation of the application's state, `render()` function, and event delegation.
 
-**Video link:** [ADD YOUR DEMO VIDEO LINK HERE]
+**Video link:** 
 
 ## 12. Repository Progress
 
