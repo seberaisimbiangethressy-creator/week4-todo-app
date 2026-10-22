@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Dark mode is controlled by a "dark" class on <html>, not by the OS setting. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  /* Visible focus style for every keyboard-focusable element. */
+  :focus-visible {
+    outline: 3px solid #6366f1;
+    outline-offset: 2px;
+  }
+}
