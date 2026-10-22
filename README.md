@@ -13,7 +13,7 @@ The application uses a clean purple theme to create a calm and focused working e
 ## 2. Project Links
 
 **GitHub Repository:**
-[PASTE YOUR PUBLIC GITHUB REPOSITORY LINK HERE]
+https://github.com/seberaisimbiangethressy-creator/week4-todo-app
 
 **Live Application:**
 [https://study-pln.netlify.app
