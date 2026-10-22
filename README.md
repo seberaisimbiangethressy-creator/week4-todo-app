@@ -16,7 +16,7 @@ The application uses a clean purple theme to create a calm and focused working e
 [PASTE YOUR PUBLIC GITHUB REPOSITORY LINK HERE]
 
 **Live Application:**
-[PASTE YOUR DEPLOYED NETLIFY, VERCEL, OR GITHUB PAGES LINK HERE]
+[https://study-pln.netlify.app
 
 **Demo Video (3–5 minutes):**
 https://docs.google.com/videos/d/1MT4aAN7pIcpdLb6lVyTEyfNVUXEmjLG8w01RQAbUK_c/play?usp=sharing
