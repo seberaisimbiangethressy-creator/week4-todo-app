@@ -178,4 +178,4 @@ The demonstration video will show the required features, extra features, data pe
 
 
 **Developed by:** Thressy Ange Isimbi Sebera
-**Course Assignment:** Week 4 — Themed To-Do List App
+
