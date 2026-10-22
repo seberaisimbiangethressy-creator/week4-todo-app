@@ -174,11 +174,8 @@ The demonstration video will show the required features, extra features, data pe
 
 **Video link:** https://docs.google.com/videos/d/1MT4aAN7pIcpdLb6lVyTEyfNVUXEmjLG8w01RQAbUK_c/play?usp=sharing
 
-## 12. Repository Progress
 
-This repository should contain at least 10 meaningful commits showing the development process, including project setup, styling, task creation, validation, completion, editing, filtering, persistence, extra features, and documentation.
 
----
 
 **Developed by:** Thressy Ange Isimbi Sebera
 **Course Assignment:** Week 4 — Themed To-Do List App
