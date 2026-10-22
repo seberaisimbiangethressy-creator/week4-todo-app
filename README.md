@@ -21,7 +21,6 @@ The application uses a clean purple theme to create a calm and focused working e
 **Demo Video (3–5 minutes):**
 https://docs.google.com/videos/d/1MT4aAN7pIcpdLb6lVyTEyfNVUXEmjLG8w01RQAbUK_c/play?usp=sharing
 
-> Remember to replace all three placeholders with your actual links before submitting.
 
 ## 3. Features
 
