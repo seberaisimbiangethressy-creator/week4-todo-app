@@ -167,13 +167,12 @@ For Netlify:
 - **Build command:** `npm run build`
 - **Publish directory:** `dist`
 
-After deployment, add the live application URL to the Project Links section of this README.
 
 ## 11. Demo Video
 
 The demonstration video will show the required features, extra features, data persistence, localStorage contents, the XSS test string displayed as plain text, and an explanation of the application's state, `render()` function, and event delegation.
 
-**Video link:** 
+**Video link:** https://docs.google.com/videos/d/1MT4aAN7pIcpdLb6lVyTEyfNVUXEmjLG8w01RQAbUK_c/play?usp=sharing
 
 ## 12. Repository Progress
 
