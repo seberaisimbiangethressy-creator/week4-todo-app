@@ -6,7 +6,7 @@
 
 ## 1. Project Description
 
-FocusFlow is a simple, responsive To-Do List application designed to help students organise their studies, manage daily tasks, and track their progress.
+The project is a simple, responsive To-Do List application designed to help students organise their studies, manage daily tasks, and track their progress.
 
 The application uses a clean purple theme to create a calm and focused working environment. It allows users to add, edit, complete, delete, search, and filter tasks. Tasks and preferences are saved in the browser using `localStorage`, so they remain available after refreshing the page.
 
@@ -19,7 +19,7 @@ The application uses a clean purple theme to create a calm and focused working e
 [PASTE YOUR DEPLOYED NETLIFY, VERCEL, OR GITHUB PAGES LINK HERE]
 
 **Demo Video (3–5 minutes):**
-[PASTE YOUR YOUTUBE UNLISTED OR GOOGLE DRIVE VIDEO LINK HERE]
+https://docs.google.com/videos/d/1MT4aAN7pIcpdLb6lVyTEyfNVUXEmjLG8w01RQAbUK_c/play?usp=sharing
 
 > Remember to replace all three placeholders with your actual links before submitting.
 
